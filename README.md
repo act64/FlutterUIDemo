@@ -1,19 +1,10 @@
 # FlutterUIDemo
 对于Flutter的UI和控件学习
 
-A new Flutter application.
+完成ui效果
+- 6位数字密码输入
+- 动画效果 缩放 平移 旋转 和 组合动画
+- 控件拖动效果
+- 简单计算器效果
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 
