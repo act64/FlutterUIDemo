@@ -1,0 +1,3 @@
+[submodule "flutterNativeMix"]
+	path = flutterNativeMix
+	url = https://github.com/act64/flutterNativeMix.git
