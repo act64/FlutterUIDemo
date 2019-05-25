@@ -50,7 +50,9 @@ flutter:
   assets:
     - images/
   #  - images/a_dot_ham.jpeg
-
+#  module:
+#    androidPackage: com.teste.embeded
+#    iosBundleIdentifier: com.teste.embeded
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 
